@@ -20,10 +20,10 @@ Below is the complete **table of contents** for the Full Stack Developer Roadmap
 * [2.6 Text Customization](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.6-Text-Customization.md)
 * [2.7 Text Spacing & Alignment](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.7-Text-Spacing-&-Alignment.md)
 * [2.8 Functions & At Rules](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.8-Functions-&-At-Rules.md)
-* 2.9 Links
-* 2.10 Lists
-* 2.11 Tables
-* 2.12 Forms
+* [2.9 Links](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.9-Links.md)
+* [2.10 Lists](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.10-Lists.md)
+* [2.11 Tables](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.11-Tables.md)
+* [2.12 Forms](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.12-forms.md)
 * 2.13 Media Files
 * 2.14 The Box Model
 * 2.15 Display Types
