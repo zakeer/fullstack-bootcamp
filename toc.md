@@ -27,32 +27,30 @@ Below is the complete **table of contents** for the Full Stack Developer Roadmap
 * [2.13 Media Files](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.13-media-files.md)
 * [2.14 The Box Model](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.14-The-Box-Model.md)
 * [2.15 Display Types](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.15-Display-Types.md)
-* 2.16 Overflow
-* 2.17 Object Fit
-* 2.18 Aspect Ratio
-* 2.19 Float
-* 2.20 Position
-* 2.21 The Column Layout
-* 2.22 The Grid Layout
-* 2.23 The Flexbox Layout
-* 2.24 Justify & Align
-* 2.25 Z index
-* 2.26 Visibility & Opacity
-* 2.27 Box Shadow
-* 2.28 Backgrounds
-* 2.29 Gradient
-* 2.30 Blend Modes
-* 2.31 Filters
-* 2.32 Transforms
-* 2.33 Transitions
-* 2.34 Animations
-* 2.35 Cursor & Scroll Behavior
-* 2.36 Responsive Design
-* 2.37 Responsive Media & Text
-* 2.38 Responsive Layout
-* 2.39 Best Practices
-* 2.40 Project #1: Portfolio Landing Page
-* 2.41 Project #2: Startup Homepage
+* [2.16 Overflow](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.16-Overflow.md)
+* [2.17 Object Fit](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.17-Object-Fit.md)
+* [2.18 Position](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.18-Position.md)
+* 2.19 The Column Layout
+* 2.20 The Grid Layout
+* 2.21 The Flexbox Layout
+* 2.22 Justify & Align
+* 2.23 Z index
+* 2.24 Visibility & Opacity
+* 2.25 Box Shadow
+* 2.26 Backgrounds
+* 2.27 Gradient
+* 2.28 Blend Modes
+* 2.29 Filters
+* 2.30 Transforms
+* 2.31 Transitions
+* 2.32 Animations
+* 2.33 Cursor & Scroll Behavior
+* 2.34 Responsive Design
+* 2.35 Responsive Media & Text
+* 2.36 Responsive Layout
+* 2.37 Best Practices
+* 2.38 Project #1: Portfolio Landing Page
+* 2.39 Project #2: Startup Homepage
 
 ---
 
